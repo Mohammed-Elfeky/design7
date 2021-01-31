@@ -44,7 +44,7 @@ $('.my-text-area').keyup(function(){
 ////////////////////////////
 
 function countDownClock(){
-    var countDownDate = new Date("Jan 5, 2021 15:37:25").getTime();
+    var countDownDate = new Date("Jan 5, 2025 15:37:25").getTime();
 
     // Update the count down every 1 second
     
